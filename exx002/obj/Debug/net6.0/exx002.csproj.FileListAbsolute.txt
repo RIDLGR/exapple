@@ -1,0 +1,15 @@
+/Users/md/Desktop/exxx/exx002/bin/Debug/net6.0/exx002
+/Users/md/Desktop/exxx/exx002/bin/Debug/net6.0/exx002.deps.json
+/Users/md/Desktop/exxx/exx002/bin/Debug/net6.0/exx002.runtimeconfig.json
+/Users/md/Desktop/exxx/exx002/bin/Debug/net6.0/exx002.dll
+/Users/md/Desktop/exxx/exx002/bin/Debug/net6.0/exx002.pdb
+/Users/md/Desktop/exxx/exx002/obj/Debug/net6.0/exx002.csproj.AssemblyReference.cache
+/Users/md/Desktop/exxx/exx002/obj/Debug/net6.0/exx002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/md/Desktop/exxx/exx002/obj/Debug/net6.0/exx002.AssemblyInfoInputs.cache
+/Users/md/Desktop/exxx/exx002/obj/Debug/net6.0/exx002.AssemblyInfo.cs
+/Users/md/Desktop/exxx/exx002/obj/Debug/net6.0/exx002.csproj.CoreCompileInputs.cache
+/Users/md/Desktop/exxx/exx002/obj/Debug/net6.0/exx002.dll
+/Users/md/Desktop/exxx/exx002/obj/Debug/net6.0/refint/exx002.dll
+/Users/md/Desktop/exxx/exx002/obj/Debug/net6.0/exx002.pdb
+/Users/md/Desktop/exxx/exx002/obj/Debug/net6.0/exx002.genruntimeconfig.cache
+/Users/md/Desktop/exxx/exx002/obj/Debug/net6.0/ref/exx002.dll
